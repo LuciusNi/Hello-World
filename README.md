@@ -1,3 +1,4 @@
 # Hello-World
-test
-i'm luciusNi
+public static void maim (String [] args){
+  system.out.println("hello world");
+}
